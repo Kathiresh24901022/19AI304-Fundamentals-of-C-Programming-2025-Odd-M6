@@ -230,12 +230,12 @@ int main() {
 ```
 # Output:
 ```
-Enter name: Arjun
+Enter name: Kathir
 Enter age: 19
 Enter marks: 87.5
 
 Student Details:
-Name  : Arjun
+Name  : Kathir
 Age   : 19
 Marks : 87.50
 ```
@@ -378,12 +378,12 @@ int main() {
 # Output:
 ```
 Enter Employee ID: 101
-Enter Employee Name: Karan
+Enter Employee Name: Kathir
 Enter Employee Salary: 45000
 
 Employee Details:
 ID     : 101
-Name   : Karan
+Name   : Kathir
 Salary : 45000.00
 ```
 # Result: 
